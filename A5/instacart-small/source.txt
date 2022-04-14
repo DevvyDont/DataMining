@@ -1,0 +1,19 @@
+
+
+Link
+https://www.instacart.com/datasets/grocery-shopping-2017
+
+
+Data Information: 
+3 Million Instacart Orders, Open Sourced
+The dataset is provided as-is for non-commercial use and is subject to our Terms and Conditions. For information about the contents of the files, see this data dictionary.
+
+Download dataset (~200MB)
+
+If you make use of this dataset, please use the following citation:
+
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on <date>
+
+If you have questions about this dataset, you can reach out to us directly at open.data@instacart.com
+
+Full blog post can be found on Tech @ Instacart
